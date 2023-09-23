@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Aug 2019 - May 2023",
+            "cardTitle": "B.E, Information Science",
+            "cardSubtitle":"CMR Institute of Technology, Bangalore",
+            "cardDetailedText": "CGPA - 7.99",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2018",
+            "cardTitle": "Senior Secondary School",
+            "cardSubtitle":"Jawahar Vidya Mandir, Ranchi",
+            "cardDetailedText": "Marks - 70.2%"
+        },
+        {
+            "title": "Apr 2016",
+            "cardTitle": "Secondary School",
+            "cardSubtitle":"Jawahar Vidya Mandir, Ranchi",
+            "cardDetailedText": "CGPA - 10"
+        }
+    ]
+}

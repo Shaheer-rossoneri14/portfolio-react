@@ -1,0 +1,44 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 50,
+        "width" : 150
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1f0_bexZjeDXRcSm7eBg7uNu8-CdMapK_/view?usp=drive_link",
+            "type": "link"
+        },
+        {
+            "title": "Cover Letter",
+            "href": "https://drive.google.com/file/d/1ih3PIQHoq_8qt1_nYZsSOzmzy8LWD0FI/view?usp=drive_link",
+            "type": "link"
+        }
+    ]
+
+}

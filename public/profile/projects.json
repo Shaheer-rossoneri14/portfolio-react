@@ -1,0 +1,108 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Data-Driven application.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "#"
+                },
+                {
+                    "text": "Live",
+                    "href": "#"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/cmrilearn-poster.png",
+            "title": "CMRiLearn -  Learning Management System",
+            "bodyText": "- An LMS web app made using **Django** for **CMRIT** college.\n - Incorporated features like dashboard, course material uploads, assignments, quiz, quiz reports, discussion forum and attendance tracker.\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "BootStrap"
+            ]
+        },
+        {
+            "image" : "images/projects/RestAPI-poster.png",
+            "title": "E-Commerce Rest API",
+            "bodyText": "- Conceptualized and implemented REST APIs for an ecommerce website.\n - Features include Registration, login, placing and canceling an order for regular users. Admin can create, retrieve, update and delete products.\n - Improved response time by 115% using Redis cache.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Django Rest Framework",
+                "PostgreSQL",
+                "Redis",
+                "Docker"
+            ]
+        },
+        {   
+            "image" :"images/projects/Sortipy-poster.png",
+            "title": "Sortipy",
+            "bodyText": "- Developed a powerful and versatile playlist sorting tool for Spotify users.\n - Allows user to sort the songs based on a variety of musical attributes, including tempo, loudness, valence, energy, danceability, and more.\n - Increased the response time by 20% by pagination of query results.\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "Spotify API"
+            ]
+        },
+        {   
+            "image":"images/projects/labspot-poster.png",
+            "title": "LabSpot Discussion Forum",
+            "bodyText": "- Worked on a comprehensive discussion forum for the LabSpot community, providing a platform for users to share their questions and doubts and engage in collaborative problem-solving.\n - Intuitive interface and dynamic features.\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "SQLite",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image":"images/projects/Moziety-poster.png",
+            "title": "Moziety Form",
+            "bodyText": "- Built a robust event registration platform designed to serve as an alternative to Google forms.\n - Tailored to the needs of CMRIT college clubs.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "csv"
+            ]
+        }
+    ]
+}

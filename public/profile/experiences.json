@@ -1,0 +1,36 @@
+{
+    "experiences": [
+        {
+            "title": "Open Source Contributor",
+            "subtitle": "Trino Software Foundation",
+            "workType": "",
+            "workDescription": [
+                "Reviewed the code and trimmed about 50 lines from the codebase by eliminating redundant code, enhancing code efficiency and maintainability.",
+                "Submitted two effective pull requests with corresponding tests on GitHub, addressing user-reported bugs.",
+                "Participated in code reviews with the maintainers to write effective and scalable code."
+            ],
+            "dateText": "06/2023 – Present"
+        },
+        {
+            "title": "Django Developer Intern",
+            "subtitle": "Techsnap",
+            "workType": "Internship",
+            "workDescription": [
+                "Led the development and enhancement of the FAQ section on the website using Django, resulting in decrease in manual data entry.",
+                "Collaborated with frontend developers to integrate backend components for the Techsnap web-app with the front end.",
+                "Integrated user facing elements into the application to improve responsiveness and overall performance."
+            ],
+            "dateText": "05/2022 – 06/2022"
+        },
+        {
+            "title": "Web Developer Trainee",
+            "subtitle": "Mecon Ltd",
+            "workType": "Internship",
+            "workDescription": [
+                "Provided support to team members in successfully implementing the Registration & Login Page for a client service project, resulting in improvement in user onboarding and login experience.",
+                "Improved the functionality of the existing system by integrating an Account Verification system using email communication."
+            ],
+            "dateText": "09/2021 – 09/2021"
+        }
+    ]
+}
