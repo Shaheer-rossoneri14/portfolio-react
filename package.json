@@ -1,7 +1,6 @@
 {
   "name": "portfolio-app",
   "version": "0.1.0",
-  "homepage": "https://Shaheer-rossoneri14.github.io/portfolio-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -39,9 +38,7 @@
     ]
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -53,7 +50,6 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "gh-pages": "^6.0.0",
     "react-error-overlay": "6.0.9"
   },
   "resolutions": {
