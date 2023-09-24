@@ -12,7 +12,7 @@ const styles = {
     margin: 10,
     flexDirection: 'column',
     whiteSpace: 'pre-wrap',
-    textAlign: 'left',
+    textAlign: 'justify',
     fontSize: '1.2em',
     fontWeight: 500,
   },
@@ -21,6 +21,14 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
+  },
+  introTextContainer2: {
+    margin: 10,
+    flexDirection: 'column',
+    whiteSpace: 'pre-wrap',
+    textAlign: 'justify',
+    fontSize: '1.2em',
+    fontWeight: 200,
   },
 };
 
@@ -57,6 +65,20 @@ function About(props) {
                   </Col>
                   <Col style={styles.introImageContainer}>
                     <img src={data?.imageSource} alt="profile" />
+                  </Col>
+                </Row>
+                <Row>
+                  <Col style={styles.introTextContainer2}>
+                    <h3 className="h3--about">Developer</h3>
+                    {parseIntro(data.about1)}
+                  </Col>
+                  <Col style={styles.introTextContainer2}>
+                    <h3 className="h3--about">Sports</h3>
+                    {parseIntro(data.sports)}
+                  </Col>
+                  <Col style={styles.introTextContainer2}>
+                    <h3 className="h3--about">Hobbies</h3>
+                    {parseIntro(data.hobbies)}
                   </Col>
                 </Row>
               </Fade>

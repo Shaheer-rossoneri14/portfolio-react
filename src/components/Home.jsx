@@ -8,9 +8,11 @@ import FallbackSpinner from './FallbackSpinner';
 const styles = {
   nameStyle: {
     fontSize: '5em',
+    color: '#3D84C6',
   },
   inlineChild: {
     display: 'inline-block',
+    color: '#3D84C6',
   },
   mainContainer: {
     height: '100%',
@@ -18,6 +20,7 @@ const styles = {
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
+    color: '#3D84C6',
   },
 };
 
