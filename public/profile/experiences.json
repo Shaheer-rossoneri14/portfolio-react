@@ -1,6 +1,17 @@
 {
     "experiences": [
         {
+            "title": "Associate Technology L1",
+            "subtitle": "Publicis Sapient",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Collaborated with cross-functional teams to understand requirements and implement effective solutions for a big bank in UK.",
+                "Developed test automation scripts streamlining test processes and reducing manual efforts.",
+                "Improved the exisiting test automation framework by adding new methods in the library."
+            ],
+            "dateText": "11/2023 – Present"
+        },
+        {
             "title": "Open Source Contributor",
             "subtitle": "Trino Software Foundation",
             "workType": "",
@@ -9,7 +20,7 @@
                 "Submitted two effective pull requests with corresponding tests on GitHub, addressing user-reported bugs.",
                 "Participated in code reviews with the maintainers to write effective and scalable code."
             ],
-            "dateText": "06/2023 – Present"
+            "dateText": "06/2023 – 10/2023"
         },
         {
             "title": "Django Developer Intern",
