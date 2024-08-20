@@ -28,7 +28,7 @@ const styles = {
     whiteSpace: 'pre-wrap',
     textAlign: 'justify',
     fontSize: '1.2em',
-    fontWeight: 200,
+    fontWeight: 500,
   },
 };
 
@@ -72,10 +72,14 @@ function About(props) {
                     <h3 className="h3--about">Developer</h3>
                     {parseIntro(data.about1)}
                   </Col>
+                </Row>
+                <Row>
                   <Col style={styles.introTextContainer2}>
                     <h3 className="h3--about">Sports</h3>
                     {parseIntro(data.sports)}
                   </Col>
+                </Row>
+                <Row>
                   <Col style={styles.introTextContainer2}>
                     <h3 className="h3--about">Hobbies</h3>
                     {parseIntro(data.hobbies)}
